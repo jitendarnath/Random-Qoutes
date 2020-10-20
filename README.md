@@ -1,4 +1,4 @@
-# Random-Qoutes
+# Random-Quotes
 Fetches random Quotes from the open quotes API, and lets user tweets those quotes via Twitter
 
  ## :large_orange_diamond: **Application Live Demo**  <a target='_blank' href="https://jitendarnath.github.io/Random-Qoutes/index.html"><img src = "https://img.shields.io/badge/Website-success.svg"></a>
